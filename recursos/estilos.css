@@ -1,0 +1,6 @@
+/*Jumbotron*/
+.jumbotron{
+  background-image: url("jumbotron.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
